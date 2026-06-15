@@ -17,3 +17,6 @@ Durante el curso se abordarán temas como:
 + Visualización declarativa con Altair.
 + Visualización interactiva con Plotly.
 + Cartografía interactiva con Folium y Leaflet.
+
+
+Docente: Geof. Guillermo A. Nicora
