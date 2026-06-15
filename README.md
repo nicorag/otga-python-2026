@@ -3,7 +3,7 @@
 
 ### Materiales, ejemplos y conjuntos de datos utilizados en el curso de Visualización de Datos en Python.
 
-Objetivos
+#### Objetivos
 
 Este repositorio reúne los recursos necesarios para aprender un flujo de trabajo completo de análisis y visualización de datos utilizando Python, desde la obtención de datos hasta la construcción de visualizaciones estáticas, interactivas y geoespaciales.
 
